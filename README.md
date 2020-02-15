@@ -1,6 +1,6 @@
 ### MySQL_Auto_Backup on Linux
 
-default-backup-date: 7day.
+default-backup-days: 7days.
 
 #### Step1:
 Add .env for environment variable
